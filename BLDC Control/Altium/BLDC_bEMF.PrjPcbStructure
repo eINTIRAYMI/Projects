@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=000-Change logs.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=000-Change logs.SchDoc|FileName=000-Cover.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=000-Change logs.SchDoc|FileName=000-Pending changes.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=000-Change logs.SchDoc|FileName=001-Power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=000-Change logs.SchDoc|FileName=002-Peripherals.SchDoc|SheetNumber=5
